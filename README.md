@@ -1,2 +1,5 @@
-# -basic-js
-📚 js language basics
+# BASIC JS
+
+---
+
+📚 JS LANGUAGE BASICS
